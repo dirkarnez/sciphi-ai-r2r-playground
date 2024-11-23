@@ -1,7 +1,4 @@
-python-playground
-=================
-[dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
-
-### Installing packages
-1. fill in package name with version to `requirements.txt`
-2. `install-package.cmd`
+sciphi-ai-r2r-playground
+========================
+### Tutorials
+- [Introduction — Build, scale, and manage user-facing Retrieval-Augmented Generation applications.](https://r2r-docs.sciphi.ai/introduction)
